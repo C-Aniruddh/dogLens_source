@@ -1,0 +1,120 @@
+<item>Rottweiler</item>
+<item>Bull Mastiff</item>
+<item>Brabancon Griffon</item>
+<item>Toy Terrier</item>
+<item>Saint Bernard</item>
+<item>Standard Poodle</item>
+<item>Giant Schnauzer</item>
+<item>Chihuahua</item>
+<item>Weimaraner</item>
+<item>Chesapeake Bay Retriever</item>
+<item>Basenji</item>
+<item>Beagle</item>
+<item>English Foxhound</item>
+<item>Flat Coated Retriever</item>
+<item>Golden Retriever</item>
+<item>Basset</item>
+<item>Bouvier Des Flandres</item>
+<item>Afghan Hound</item>
+<item>Old English Sheepdog</item>
+<item>Welsh Springer Spaniel</item>
+<item>Great Pyrenees</item>
+<item>Border Collie</item>
+<item>Toy Poodle</item>
+<item>Dingo</item>
+<item>Malamute</item>
+<item>French Bulldog</item>
+<item>Borzoi</item>
+<item>Curly Coated Retriever</item>
+<item>Black And Tan Coonhound</item>
+<item>Keeshond</item>
+<item>Australian Terrier</item>
+<item>Shetland Sheepdog</item>
+<item>Cairn</item>
+<item>Tibetan Terrier</item>
+<item>Briard</item>
+<item>Wire Haired Fox Terrier</item>
+<item>Samoyed</item>
+<item>Leonberg</item>
+<item>Whippet</item>
+<item>Saluki</item>
+<item>Lhasa</item>
+<item>Papillon</item>
+<item>Malinois</item>
+<item>Kuvasz</item>
+<item>Appenzeller</item>
+<item>Schipperke</item>
+<item>Pomeranian</item>
+<item>Pug</item>
+<item>Blenheim Spaniel</item>
+<item>Bernese Mountain Dog</item>
+<item>Groenendael</item>
+<item>Clumber</item>
+<item>Standard Schnauzer</item>
+<item>Brittany Spaniel</item>
+<item>Bloodhound</item>
+<item>Bedlington Terrier</item>
+<item>Maltese Dog</item>
+<item>Dhole</item>
+<item>Boxer</item>
+<item>Affenpinscher</item>
+<item>Chow</item>
+<item>Redbone</item>
+<item>Irish Terrier</item>
+<item>Sussex Spaniel</item>
+<item>Silky Terrier</item>
+<item>Yorkshire Terrier</item>
+<item>Sealyham Terrier</item>
+<item>Cocker Spaniel</item>
+<item>Irish Wolfhound</item>
+<item>Mexican Hairless</item>
+<item>Siberian Husky</item>
+<item>English Setter</item>
+<item>Kelpie</item>
+<item>Border Terrier</item>
+<item>American Staffordshire Terrier</item>
+<item>Norfolk Terrier</item>
+<item>Irish Setter</item>
+<item>Boston Bull</item>
+<item>Ibizan Hound</item>
+<item>Labrador Retriever</item>
+<item>Newfoundland</item>
+<item>Rhodesian Ridgeback</item>
+<item>West Highland White Terrier</item>
+<item>Japanese Spaniel</item>
+<item>Lakeland Terrier</item>
+<item>Irish Water Spaniel</item>
+<item>Greater Swiss Mountain Dog</item>
+<item>Staffordshire Bullterrier</item>
+<item>Great Dane</item>
+<item>Kerry Blue Terrier</item>
+<item>Scotch Terrier</item>
+<item>Gordon Setter</item>
+<item>Pekinese</item>
+<item>German Short Haired Pointer</item>
+<item>Collie</item>
+<item>Bluetick</item>
+<item>Doberman</item>
+<item>Italian Greyhound</item>
+<item>Entlebucher</item>
+<item>Norwich Terrier</item>
+<item>Eskimo Dog</item>
+<item>Vizsla</item>
+<item>African Hunting Dog</item>
+<item>Cardigan</item>
+<item>Miniature Schnauzer</item>
+<item>English Springer</item>
+<item>Miniature Poodle</item>
+<item>Soft Coated Wheaten Terrier</item>
+<item>Tibetan Mastiff</item>
+<item>Miniature Pinscher</item>
+<item>Pembroke</item>
+<item>Shih Tzu</item>
+<item>German Shepherd</item>
+<item>Norwegian Elkhound</item>
+<item>Scottish Deerhound</item>
+<item>Walker Hound</item>
+<item>Komondor</item>
+<item>Otterhound</item>
+<item>Dandie Dinmont</item>
+<item>Airedale</item>
